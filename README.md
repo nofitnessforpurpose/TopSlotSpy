@@ -11,16 +11,16 @@ This repository holds files needed to create a Top Slot Montoring point for the 
 <BR>
 
 [![Organiser](https://img.shields.io/badge/gadget-Organiser_II-blueviolet.svg?%3D&style=flat-square)]([https://en.wikipedia.org/wiki/Psion_Organiser])
-[![GitHub License](https://img.shields.io/github/license/nofitnessforpurpose/Data-Pack-2?style=flat-square)](https://github.com/nofitnessforpurpose/Data-Pack-2/blob/main/LICENSE) 
-[![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat-square)](https://github.com/nofitnessforpurpose/DataPak/graphs/commit-activity)
-![GitHub repo size](https://img.shields.io/github/repo-size/nofitnessforpurpose/Data-Pack-2?style=flat-square)
+[![GitHub License](https://img.shields.io/github/license/nofitnessforpurpose/TopSlotSpy?style=flat-square)](https://github.com/nofitnessforpurpose/TopSlotSpy/blob/main/LICENSE) 
+[![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat-square)](https://github.com/nofitnessforpurpose/TopSlotSpy/graphs/commit-activity)
+![GitHub repo size](https://img.shields.io/github/repo-size/nofitnessforpurpose/TopSlotSpy?style=flat-square)
 [![Static Badge](https://img.shields.io/badge/format-STEP%20Solid%20Model-blue)](https://en.wikipedia.org/wiki/ISO_10303)
 [![Static Badge](https://img.shields.io/badge/format-GERBER%20PCB-blue)](https://en.wikipedia.org/wiki/ISO_10303)
 <br>  
   All the files are required.  <br>
   The default repository format for 3D files is STEP (<a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/ISO_10303"> ISO 10303</a> ) due to its high fidelity.  { STL files are surface geometry as opposed to solid model representations, often containing export processing artifacts }. 
 <br>  
-  The default repository format for PCB files is GERBER.
+  The default repository format for PCB files is <a targer="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Gerber_format">GERBER</a> .
 <br>
 
 <br>  
