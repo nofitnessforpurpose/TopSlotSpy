@@ -14,8 +14,8 @@ This repository holds files needed to create a Top Slot Montoring point for the 
 [![GitHub License](https://img.shields.io/github/license/nofitnessforpurpose/TopSlotSpy?style=flat-square)](https://github.com/nofitnessforpurpose/TopSlotSpy/blob/main/LICENSE) 
 [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat-square)](https://github.com/nofitnessforpurpose/TopSlotSpy/graphs/commit-activity)
 ![GitHub repo size](https://img.shields.io/github/repo-size/nofitnessforpurpose/TopSlotSpy?style=flat-square)
-[![Static Badge](https://img.shields.io/badge/format-STEP%20Solid%20Model-blue)](https://en.wikipedia.org/wiki/ISO_10303)
-[![Static Badge](https://img.shields.io/badge/format-GERBER%20PCB-blue)](https://en.wikipedia.org/wiki/ISO_10303)
+[![Static Badge](https://img.shields.io/badge/format-STEP%20Solid%20Model-blue?style=flat-square)](https://en.wikipedia.org/wiki/ISO_10303)
+[![Static Badge](https://img.shields.io/badge/format-GERBER%20PCB-blue?style=flat-square)](https://en.wikipedia.org/wiki/ISO_10303)
 <br>  
   All the files are required.  <br>
   The default repository format for 3D files is STEP (<a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/ISO_10303"> ISO 10303</a> ) due to its high fidelity.  { STL files are surface geometry as opposed to solid model representations, often containing export processing artifacts }. 
