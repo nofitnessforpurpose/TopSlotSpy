@@ -26,6 +26,7 @@ This repository holds files needed to create a Top Slot Montoring point for the 
 <br>  
 <a target="_blank" rel="noopener noreferrer" href="https://www.freecad.org/" > FreeCAD </a> may prove suitable for viewing, handling and, if desired modifying STEP files.
 <br>
+<a target="_blank" rel="noopener noreferrer" href="https://www.kicad.org/" >KiCad </a> may prove suitable for viewing GERBER files.
 <br>
 
 ## Consderations
