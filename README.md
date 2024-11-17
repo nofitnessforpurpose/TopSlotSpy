@@ -29,7 +29,7 @@ This repository holds files needed to create a Top Slot Montoring point for the 
 <a target="_blank" rel="noopener noreferrer" href="https://www.kicad.org/" >KiCad </a> may prove suitable for viewing GERBER files.
 <br>
 
-## Consderations
+## Considerations
 The 3D model makes no accomodation for manufacturing tolerances, process or material - see Notes below.  
 The PCB is currently beta and has been tested, it remains your responsiblity to asses suitability!  
 The assembly of PCB and case has not been tested.  
