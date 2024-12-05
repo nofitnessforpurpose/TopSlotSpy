@@ -34,6 +34,9 @@ The 3D model makes no accomodation for manufacturing tolerances, process or mate
 The PCB is currently beta and has been tested, it remains your responsiblity to asses suitability!  
 The assembly of PCB and case has been tested, the PCB would benefit from a spacer between the PCB and case. The side cover works overly well, being more suited to a generic case infill than an easily removable cover in the current iteration.
 
+## Questions / Discussion
+See <a target="_blank" rel="noopener noreferrer" href="https://www.organiser2.com/"> Organiser 2 Hardware </a> forum, though see note below first.
+
 ## Please note:  
 All information is For Indication only.
 No association, affiliation, recommendation, suitability, fitness for purpose should be assumed or is implied.
