@@ -1,4 +1,4 @@
-# TopSlotSpy - Pre-Release
+# Top Slot Spy - Pre-Release
 PSION Organiser II - Top Slot Monitoring
 
 This repository holds files needed to create a Top Slot Montoring point for the Psion Organiser 2
